@@ -15,6 +15,7 @@ spring:
     password: admin
 server:  port: 8101
   
+  
 eureka:
   client:
     service-url:
